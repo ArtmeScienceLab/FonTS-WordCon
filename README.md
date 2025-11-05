@@ -73,11 +73,13 @@ Trainset download: [🤗 SC-artext](https://huggingface.co/datasets/SSS/SC-artex
 If you find this work helpful, please consider citing our paper or give a star🌟:
 
 ```
-@article{shi2024fonts,
-  title={FonTS: Text Rendering with Typography and Style Controls},
-  author={Shi, Wenda and Song, Yiren and Zhang, Dengming and Liu, Jiaming and Zou, Xingxing},
-  journal={arXiv preprint arXiv:2412.00136},
-  year={2024}
+@InProceedings{Shi_2025_ICCV,
+    author    = {Shi, Wenda and Song, Yiren and Zhang, Dengming and Liu, Jiaming and Zou, Xingxing},
+    title     = {FonTS: Text Rendering With Typography and Style Controls},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {18463-18474}
 }
 ```
 
