@@ -81,6 +81,17 @@ If you find this work helpful, please consider citing our paper or give a starðŸ
     year      = {2025},
     pages     = {18463-18474}
 }
+
+@ARTICLE{WordCon,
+  author={Shi, Wenda and Song, Yiren and Rao, Zihan and Zhang, Dengming and Liu, Jiaming and Zou, Xingxing},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={WordCon: Word-level Typography Control in Visual Text Rendering}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Visual text rendering;parameter-efficient fine-tuning;image synthesis;text-image alignment},
+  doi={10.1109/TCSVT.2026.3686871}}
 ```
 
 ### Acknowledgments
