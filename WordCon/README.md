@@ -61,7 +61,6 @@ By leveraging tools like the Recraft Mockup Generator (see the [official blog](h
 
 ## Citation
 
-### Citation
 If you find this work helpful, please consider citing our paper or give a star🌟:
 
 ```
