@@ -1,6 +1,34 @@
 # WordCon: Word-level Typography Control in Visual Text Rendering
 
-<a href="https://wendashi.github.io/WordCon-Page/"><img src="https://img.shields.io/badge/Project-Website-green.svg" alt="Project Website"></a>
+<h4 align="center">
+
+[![IEEE Xplore](https://img.shields.io/static/v1?label=IEEE&message=paper&color=blue)](https://ieeexplore.ieee.org/document/11494032) [![Project Website](https://img.shields.io/badge/Project-Website-green.svg)](https://wendashi.github.io/WordCon-Page/) [![HuggingFace Model](https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg)](https://huggingface.co/ArtmeScienceLab/WordCon) [![HuggingFace Dataset](https://img.shields.io/badge/🤗_HuggingFace-Dataset-ffbd45.svg)](https://huggingface.co/datasets/ArtmeScienceLab/WordCon-WC-dataset)
+
+
+  <div class="is-size-5 publication-authors">
+    <span class="author-block">
+      <a href="https://wendashi.github.io/">Wenda Shi</a><sup>1</sup>,</span>
+    <span class="author-block">
+      <a href="https://scholar.google.com/citations?hl=zh-CN&user=L2YS0jgAAAAJ">Yiren Song</a><sup>2</sup>,</span>
+    <span class="author-block">
+      <a href=>Zihan Rao</a><sup>3</sup>,</span>
+    <span class="author-block">
+      <a href="https://littleor.github.io/">Dengming Zhang</a><sup>4</sup>,</span>
+    <span class="author-block">
+      <a href="https://scholar.google.com/citations?user=SmL7oMQAAAAJ&hl=en">Jiaming Liu</a><sup>5</sup>,</span>
+    <span class="author-block">
+      <a href="https://scholar.google.com/citations?user=UhnQA3UAAAAJ&hl=zh-CN">Xingxing Zou</a><sup>1,*</sup></span>
+  </div>
+  
+  <div class="is-size-5 publication-authors">
+    <span class="author-block"><sup>1</sup>The Hong Kong Polytechnic University, </span>
+    <span class="author-block"><sup>2</sup>National University of Singapore, </span>
+    <span class="author-block"><sup>3</sup>Chongqing University, </span>
+    <span class="author-block"><sup>4</sup>Zhejiang University, </span>
+    <span class="author-block"><sup>5</sup>Alibaba Group</span>
+    <span class="author-block"><sup>*</sup>Corresponding author</span>
+  </div>
+</h4>
 
 This folder contains the official implementation of **WordCon**, a framework for word-level typographic control in text rendering tasks.
 
@@ -22,7 +50,6 @@ You can run the inference script using the following command:
 
 ```bash
 python examples/inference.py
-python examples/art_lora.py
 ```
 
 
