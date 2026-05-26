@@ -46,13 +46,17 @@ conda env create -f wordcon_environment.yml
 conda activate wordcon
 ```
 
-## Inference
+## Inference Code
 
 You can run the inference script using the following command:
 
 ```bash
 python examples/inference.py
 ```
+
+## Future Work Suggestion 🤔
+
+By leveraging tools like the Recraft Mockup Generator (see the [official blog](https://www.recraft.ai/mockup-generator) and the [community-reproduced version](https://github.com/LAOGOU-666/Comfyui-Transform)), you can project word-level controlled synthetic text onto diverse curved surfaces, expanding beyond flat rendering.
 
 
 ## Citation
