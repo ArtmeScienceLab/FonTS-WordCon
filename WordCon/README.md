@@ -30,6 +30,8 @@
   </div>
 </h4>
 
+![WordCon teaser image](https://raw.githubusercontent.com/ArtmeScienceLab/FonTS/main/WordCon/teaser/teaser.png)
+
 This folder contains the official implementation of **WordCon**, a framework for word-level typographic control in text rendering tasks.
 
 ## Environment Setup
